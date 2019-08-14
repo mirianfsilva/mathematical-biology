@@ -6,7 +6,7 @@ Population dynamics is the branch of life sciences that studies the size and age
 
 In the applications of population dynamics in biomathematics we will use as differential technical tools the ODE's (Ordinary differential equation), with some extensions that use PDE's (partial differential equation), the finite differential equations and the linear algebra methods.
 
-#### Topics 
+#### Topics:
 -  Continuous Population Models for Single Species
     - Continuous Growth Models
     - Delay Models
@@ -18,6 +18,6 @@ In the applications of population dynamics in biomathematics we will use as diff
     - Mutualism or Symbiosis
 - Markov Chains 
 
-### References
+#### References: 
 - Mathematical Models in Biology, Leah Edelstein-Keshet. 
 - Mathematical Biology, L. Glass, J.D. Murray
