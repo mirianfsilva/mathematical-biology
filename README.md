@@ -18,4 +18,6 @@ In the applications of population dynamics in biomathematics we will use as diff
     - Mutualism or Symbiosis
 - Markov Chains 
 
-
+### References
+- Mathematical Models in Biology, Leah Edelstein-Keshet. 
+- Mathematical Biology, L. Glass, J.D. Murray
